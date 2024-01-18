@@ -1,1 +1,1 @@
-#  Aplicación para ´´´envio whatsapp automatico.´´´
+#  Aplicación para ```envio whatsapp automatico.```
